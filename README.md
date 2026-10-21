@@ -11,6 +11,7 @@ I build validation methods that catch false positives: in clinical data, in neur
 #### Research — under review
 
 - **Contamination-resilient cluster randomized trial design under spatial interference: a simulation study of contamination control.** *Statistics in Medicine* (submitted). Preprint: [doi:10.5281/zenodo.23486177](https://doi.org/10.5281/zenodo.23486177). Code and data: [doi:10.17605/OSF.IO/XPA4S](https://doi.org/10.17605/OSF.IO/XPA4S). Live demo: [crt-design-demo](https://patrickiben.github.io/crt-design-demo/)
+- **A False Floor: Refuting Our Own Information-Limit Claim in a Lethal Identification Task.** *TMLR* (submitted). Preprint: [doi:10.5281/zenodo.23519300](https://doi.org/10.5281/zenodo.23519300)
 - **Anticipating network contagions: when directedness outperforms connectedness.** *Applied Network Science* (with editor). Code and data: [directed-asymmetry-contagion](https://github.com/patrickiben/directed-asymmetry-contagion)
 - **Which data modality recognizes a gene set? A domain-agnostic consilience engine.** *PeerJ* (in peer review). Code: [consilience-engine](https://github.com/patrickiben/consilience-engine)
 - **No emotion-specific image-computable code in the human left amygdala.** Peer Community In, preprint review. Preprint: [doi:10.5281/zenodo.21422754](https://doi.org/10.5281/zenodo.21422754). Code: [amygdala-invariance](https://github.com/patrickiben/amygdala-invariance)
