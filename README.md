@@ -4,7 +4,7 @@ I build validation methods that catch false positives: in clinical data, in neur
 
 7 years of clinical biostatistics at a CRO (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Open to research-scientist, AI-evaluation, model-validation, and methods roles. Remote US.
 
-**Contact:** p.iben@saeny.net · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
+**Contact:** patrickiben@gmail.com · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
 
 ---
 
