@@ -13,7 +13,7 @@ Each row connects one research manuscript to its corresponding code/data and any
 
 ## How the systems connect
 
-**Coastal Water Resilience combines two research directions.** It adapts spatial exposure and spillover diagnostics from the CRT framework alongside directed source/sink accounting informed by the network-contagion research. It adds NOAA/NWS observations and an inspectable operating interface. The lift-station network is synthetic, and the console is an application of selected methods rather than a reproduction of either paper's experiments.
+**Coastal Water Resilience combines two research directions.** It adapts spatial exposure and spillover diagnostics from the CRT framework alongside directed source/sink accounting informed by the network-contagion research. It adds NOAA/NWS observations, ten-parameter response plans and projected-impact exercises with explicit assumptions. A separate official public-station register includes County zone matches and USGS terrain; the calibration network and its connections remain synthetic. The console applies selected methods rather than reproducing either paper's experiments.
 
 **Resilience Telemetry translates the directed-contagion work into an interactive monitoring tool.** Its live-data workflow, ridge VAR, historical replay and transmitter-stability displays extend the presentation to a different setting. The manuscript's non-negative VAR and interdiction experiments remain in the research repository; the [research guide](https://patrickiben.github.io/public-data-consoles/consoles/resilience-telemetry/wiki.html#s8b) explains the differences.
 
