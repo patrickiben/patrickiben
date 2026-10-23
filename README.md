@@ -1,25 +1,28 @@
-### Patrick Iben, MS · Clinical biostatistics, AI evaluation, and applied mathematics
+### Patrick Iben, MS · Applied mathematics, research engineering, and clinical biostatistics
 
-I build statistical methods and reproducible validation tools for clinical research and AI systems. My work asks whether a claimed signal is actually there, and reports honestly when it is not.
+I build mathematical frameworks and turn uncertain signals into inspectable, tested systems across clinical biometrics, AI evaluation, wearable sensing, and public-data monitoring. My work asks whether a claimed signal is actually there, and reports honestly when it is not.
 
-7 years of clinical biostatistics at a CRO (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Open to research-scientist, AI-evaluation, model-validation, and methods roles. Remote US.
+7 years of clinical biostatistics at a CRO (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Open to research-scientist, research-engineering, AI-evaluation, model-validation, and methods roles. Remote US.
 
 **Contact:** patrickiben@gmail.com · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
 
-#### Featured case study: research engineering and systems architecture
-
-**[Coastal Water Resilience — explore the live console](https://patrickiben.github.io/public-data-consoles/consoles/coastal-water-resilience/)**
-
-I translate mathematical research into interactive decision-support systems. This console brings spatial exposure and spillover diagnostics from my [CRT design framework](https://github.com/patrickiben/crt-design-demo) together with directed source/sink accounting from my [network-contagion research](https://github.com/patrickiben/directed-asymmetry-contagion). It connects live NOAA/NWS feeds, a synthetic lift-station network, scenario controls, and metric-to-response explanations, with explicit labels for measured and modeled information. The public demonstration uses a synthetic network and descriptive scenarios.
-
 #### Selected work
 
-- **[Clinical biostatistics and AI portfolio](https://github.com/patrickiben/biometrics-ai-portfolio)** — SAS and R TLF pseudocode libraries, a synthetic ADaM generator, study-lifecycle tools, and a runnable validation harness. Public and synthetic data; templates and prototypes are labeled.
+**Research engineering and systems architecture** — translating methods across domains, integrating data and models, and building tools whose assumptions and evidence can be inspected.
+
+- **[Coastal Water Resilience](https://patrickiben.github.io/public-data-consoles/consoles/coastal-water-resilience/)** · [source](https://github.com/patrickiben/public-data-consoles/tree/main/consoles/coastal-water-resilience) — Spatial exposure and spillover diagnostics from my [CRT framework](https://github.com/patrickiben/crt-design-demo), directed source/sink accounting informed by my [network-contagion research](https://github.com/patrickiben/directed-asymmetry-contagion), and live NOAA/NWS feeds in one infrastructure console. The public lift-station network is synthetic; measured and modeled information carry explicit labels.
+- **[Autonomic Telemetry](https://patrickiben.github.io/autonomic-telemetry/)** · [source](https://github.com/patrickiben/autonomic-telemetry) — A local wearable-to-browser research system: Bluetooth adapters, an in-memory Mac bridge, and mobile visualization, with explicit signal quality, freshness, and source contracts. A separate Signal Lab provides numerical lenses with analytic and regression checks.
+- **[Resilience Telemetry](https://patrickiben.github.io/public-data-consoles/consoles/resilience-telemetry/)** · [research guide](https://patrickiben.github.io/public-data-consoles/consoles/resilience-telemetry/wiki.html#s8b) — An interactive companion to my [directed-contagion research](https://github.com/patrickiben/directed-asymmetry-contagion): cross-asset spillover analysis, transmitter stability, and baseline comparisons, with public-data ingestion, historical replay, and explicit interpretation limits.
+
+**Clinical biometrics and AI evaluation**
+
+- **[Clinical biostatistics and AI portfolio](https://patrickiben.github.io/biometrics-ai-portfolio/)** · [source](https://github.com/patrickiben/biometrics-ai-portfolio) — SAS and R TLF pseudocode libraries, a synthetic ADaM generator, study-lifecycle tools, and a runnable validation harness. Public and synthetic data; templates and prototypes are labeled.
 - **[eCRF pipeline apps](https://github.com/patrickiben/ecrf-pipeline-apps)** · [demo overview](https://patrickiben.github.io/ecrf-pipeline-apps/) — Four Streamlit apps for coding assistance, PII/PHI redaction, participant risk scoring, and anomaly/drift checks. Hosted demos use bundled synthetic data and placeholder dictionary codes; runnable QC checks accompany the source.
-- **[numguard](https://github.com/patrickiben/numguard)** — Deterministic checks of extracted numeric values against allowed facts, required facts, and a finite phrase denylist; JSON/JUnit export for CI. A grounding prototype with explicit limits, not validated regulatory software.
+- **[numguard](https://github.com/patrickiben/numguard)** — Deterministic checks of extracted numeric values against allowed facts, required facts, and a finite phrase denylist; JSON/JUnit export for CI. A grounding prototype with explicit limits.
 - **[calibrated-clinical-ml](https://github.com/patrickiben/calibrated-clinical-ml)** — From-scratch calibration and decision-curve evaluation against a synthetic oracle; demonstrates how identical AUC can conceal different probability calibration.
 
 #### Research
+
 
 - **Contamination-resilient cluster randomized trial design under spatial interference: a simulation study of contamination control.** *Statistics in Medicine* (submitted). Preprint: [doi:10.5281/zenodo.23486177](https://doi.org/10.5281/zenodo.23486177). Code and data: [doi:10.17605/OSF.IO/XPA4S](https://doi.org/10.17605/OSF.IO/XPA4S). Live demo: [crt-design-demo](https://patrickiben.github.io/crt-design-demo/)
 - **What do within-site comparisons of AlphaGenome Atlas predictions measure? An audit at ClinVar sites in 11 genes.** *Human Genomics* (submitted). Preprint: [doi:10.5281/zenodo.23543155](https://doi.org/10.5281/zenodo.23543155). Code and data: [doi:10.5281/zenodo.23537469](https://doi.org/10.5281/zenodo.23537469). Demo: [alphagenome-allele-demo](https://patrickiben.github.io/alphagenome-allele-demo/)
@@ -40,4 +43,4 @@ Each has a dependency-free core self-test. The HTTP service also requires FastAP
 
 - **[public-data-consoles](https://github.com/patrickiben/public-data-consoles)** — Browser-based dashboards for hazards, early warning, and public health. Descriptive, not predictive.
 
-<sub>Everything here uses public or synthetic data. Proofs of concept are labeled as such.</sub>
+<sub>Shared examples and hosted demonstrations use public or synthetic data. Autonomic Telemetry also supports private local wearable input; proof-of-concept boundaries are documented.</sub>
