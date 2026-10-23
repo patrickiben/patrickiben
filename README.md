@@ -1,12 +1,23 @@
-### Patrick Iben, MS: applied mathematician
+### Patrick Iben, MS · Clinical biostatistics, AI evaluation, and applied mathematics
 
-I build mathematical frameworks and validation pipelines for biometrics, generative AI, and complex dynamical systems. Most of what's here asks whether a claimed signal is actually there, and reports honestly when it isn't.
+I build statistical methods and reproducible validation tools for clinical research and AI systems. My work asks whether a claimed signal is actually there, and reports honestly when it is not.
 
 7 years of clinical biostatistics at a CRO (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Open to research-scientist, AI-evaluation, model-validation, and methods roles. Remote US.
 
 **Contact:** patrickiben@gmail.com · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
 
----
+#### Featured case study: research engineering and systems architecture
+
+**[Coastal Water Resilience — explore the live console](https://patrickiben.github.io/public-data-consoles/consoles/coastal-water-resilience/)**
+
+I translate mathematical research into interactive decision-support systems. This console brings spatial exposure and spillover diagnostics from my [CRT design framework](https://github.com/patrickiben/crt-design-demo) together with directed source/sink accounting from my [network-contagion research](https://github.com/patrickiben/directed-asymmetry-contagion). It connects live NOAA/NWS feeds, a synthetic lift-station network, scenario controls, and metric-to-response explanations, with explicit labels for measured and modeled information. The public demonstration uses a synthetic network and descriptive scenarios.
+
+#### Selected work
+
+- **[Clinical biostatistics and AI portfolio](https://github.com/patrickiben/biometrics-ai-portfolio)** — SAS and R TLF pseudocode libraries, a synthetic ADaM generator, study-lifecycle tools, and a runnable validation harness. Public and synthetic data; templates and prototypes are labeled.
+- **[eCRF pipeline apps](https://github.com/patrickiben/ecrf-pipeline-apps)** · [demo overview](https://patrickiben.github.io/ecrf-pipeline-apps/) — Four Streamlit apps for coding assistance, PII/PHI redaction, participant risk scoring, and anomaly/drift checks. Hosted demos use bundled synthetic data and placeholder dictionary codes; runnable QC checks accompany the source.
+- **[numguard](https://github.com/patrickiben/numguard)** — Deterministic checks of extracted numeric values against allowed facts, required facts, and a finite phrase denylist; JSON/JUnit export for CI. A grounding prototype with explicit limits, not validated regulatory software.
+- **[calibrated-clinical-ml](https://github.com/patrickiben/calibrated-clinical-ml)** — From-scratch calibration and decision-curve evaluation against a synthetic oracle; demonstrates how identical AUC can conceal different probability calibration.
 
 #### Research
 
@@ -17,18 +28,16 @@ I build mathematical frameworks and validation pipelines for biometrics, generat
 - **Which data modality recognizes a gene set? A domain-agnostic consilience engine.** *PeerJ* (in peer review). Code: [consilience-engine](https://github.com/patrickiben/consilience-engine)
 - **No emotion-specific image-computable code in the human left amygdala.** Peer Community In, preprint review. Preprint: [doi:10.5281/zenodo.21422754](https://doi.org/10.5281/zenodo.21422754). Code: [amygdala-invariance](https://github.com/patrickiben/amygdala-invariance)
 
-#### Trustworthy-AI tooling
+#### Additional AI-evaluation tools
 
-All zero-dependency, all with runnable self-tests.
+Each has a dependency-free core self-test. The HTTP service also requires FastAPI and its dependencies.
 
-- **[numguard](https://github.com/patrickiben/numguard)**: a guardrail and evaluation harness for LLM output in regulated work. The model never sources a number; JSON/JUnit export for CI.
-- **[tool-grounded-agent](https://github.com/patrickiben/tool-grounded-agent)**: a grounding harness for agentic drafting. Tool-ledger provenance plus a grounding backstop, with the system's own blind spots shipped as executable known-gap tests.
-- **[grounded-rag](https://github.com/patrickiben/grounded-rag)**: retrieval with a grounding evaluator that flags unsupported claims and ungrounded numbers.
-- **[calibrated-clinical-ml](https://github.com/patrickiben/calibrated-clinical-ml)**: from-scratch calibration and decision-curve evaluation, showing two predictors with identical AUC and very different calibration.
-- **[guarded-llm-service](https://github.com/patrickiben/guarded-llm-service)**: the guardrail served over FastAPI with Docker, CI, and Prometheus-style metrics.
+- **[tool-grounded-agent](https://github.com/patrickiben/tool-grounded-agent)** — A scripted planner demonstrates tool-ledger provenance and a grounding backstop. The harness includes executable known-gap tests; it does not run a language model.
+- **[grounded-rag](https://github.com/patrickiben/grounded-rag)** — Lexical retrieval and an extractive answerer with checks for numeric membership and lexical support. A runnable evaluation prototype.
+- **[guarded-llm-service](https://github.com/patrickiben/guarded-llm-service)** — The grounding guard served over FastAPI with Docker, CI, and Prometheus-style metrics.
 
-#### Decision-support
+#### Public-data tools
 
-- **[public-data-consoles](https://github.com/patrickiben/public-data-consoles)**: 28 self-contained, browser-only dashboards on live public feeds (hazards and early warning, public health). Descriptive, not predictive.
+- **[public-data-consoles](https://github.com/patrickiben/public-data-consoles)** — Browser-based dashboards for hazards, early warning, and public health. Descriptive, not predictive.
 
 <sub>Everything here uses public or synthetic data. Proofs of concept are labeled as such.</sub>
