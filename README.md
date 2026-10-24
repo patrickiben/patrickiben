@@ -6,6 +6,8 @@ I build mathematical frameworks and turn uncertain signals into inspectable, cro
 
 **Contact:** patrickiben@gmail.com · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
 
+**[Resume — 2-page PDF](https://github.com/patrickiben/patrickiben/blob/main/careers/Patrick_Iben_Resume.pdf) · [Full CV — 4-page PDF](https://github.com/patrickiben/patrickiben/blob/main/careers/Patrick_Iben_CV.pdf)** · [Word versions](https://github.com/patrickiben/patrickiben/tree/main/careers)
+
 #### Selected work
 
 **Research engineering and systems architecture** — translating methods across domains, integrating data and models, and building tools whose assumptions and evidence can be inspected.
