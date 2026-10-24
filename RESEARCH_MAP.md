@@ -13,12 +13,13 @@ Each row connects one research manuscript to its corresponding code/data and any
 
 ## Educational companions
 
-These five public repositories provide a concise study guide and a complete companion. Each identifies the manuscript version it explains. The PDF links below open the printable editions; each study's education folder also contains browser-readable Markdown.
+All six manuscripts have a concise study guide and a complete companion. Each identifies the manuscript version it explains. The PDF links below open the printable editions; each study's education folder also contains browser-readable Markdown.
 
 | Study and teaching materials | Concise study guide | Complete companion |
 | --- | --- | --- |
 | [CRT design](https://github.com/patrickiben/crt-design-demo/tree/main/education) | [PDF](https://github.com/patrickiben/crt-design-demo/blob/main/education/STUDY_GUIDE.pdf) | [PDF](https://github.com/patrickiben/crt-design-demo/blob/main/education/COMPANION.pdf) |
 | [AlphaGenome audit](https://github.com/patrickiben/alphagenome-allele-demo/tree/main/education) | [PDF](https://github.com/patrickiben/alphagenome-allele-demo/blob/main/education/STUDY_GUIDE.pdf) | [PDF](https://github.com/patrickiben/alphagenome-allele-demo/blob/main/education/COMPANION.pdf) |
+| [A False Floor](education/false-floor/) | [PDF](education/false-floor/STUDY_GUIDE.pdf) | [PDF](education/false-floor/COMPANION.pdf) |
 | [Directed network contagion](https://github.com/patrickiben/directed-asymmetry-contagion/tree/main/education) | [PDF](https://github.com/patrickiben/directed-asymmetry-contagion/blob/main/education/STUDY_GUIDE.pdf) | [PDF](https://github.com/patrickiben/directed-asymmetry-contagion/blob/main/education/COMPANION.pdf) |
 | [Consilience engine](https://github.com/patrickiben/consilience-engine/tree/main/education) | [PDF](https://github.com/patrickiben/consilience-engine/blob/main/education/STUDY_GUIDE.pdf) | [PDF](https://github.com/patrickiben/consilience-engine/blob/main/education/COMPANION.pdf) |
 | [Amygdala invariance](https://github.com/patrickiben/amygdala-invariance/tree/main/education) | [PDF](https://github.com/patrickiben/amygdala-invariance/blob/main/education/STUDY_GUIDE.pdf) | [PDF](https://github.com/patrickiben/amygdala-invariance/blob/main/education/COMPANION.pdf) |

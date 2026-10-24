@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "editions": {
+    "study_guide": "Concise orientation, key results, boundaries and answered self-checks.",
+    "companion": "Complete source-guided walkthrough; the coverage map specifies all included source material and structural exclusions."
+  },
+  "study_guide_markdown": {
+    "file": "STUDY_GUIDE.md",
+    "sha256": "1fb8d2a5ab1683cb1afbd87330b45c12c137b8beb15564cdb024921febba7688",
+    "words": 3468
+  },
+  "study_guide_pdf": {
+    "file": "STUDY_GUIDE.pdf",
+    "sha256": "2b656412842138b9063e9051d367674871fb440740049433f03001710b79171a",
+    "pages": 8
+  },
+  "companion_markdown": {
+    "file": "COMPANION.md",
+    "sha256": "f05c57e76633e711645c8d0efed2a9741f039495c7966b66d678ee1020298013",
+    "words": 22333
+  },
+  "companion_pdf": {
+    "file": "COMPANION.pdf",
+    "sha256": "0fe7cc4e865793a33b80e8d42cc26d9b87a08326630d6e5ec4e5fe4563b96dec",
+    "pages": 48
+  },
+  "complete_coverage": {
+    "file": "COMPLETE_COVERAGE.md",
+    "sha256": "b3abd8ff1bf34a29910efe659deb230e10da973e7ddeb3f2ec3f2d64d7061d11"
+  },
+  "basis": "Exact manuscript version and source SHA-256 specified in README.md."
+}
