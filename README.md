@@ -1,6 +1,6 @@
 ### Patrick Iben, MS · Applied mathematics, research engineering, and clinical biostatistics
 
-I build mathematical frameworks and turn uncertain signals into inspectable, tested systems across clinical biometrics, AI evaluation, wearable sensing, and public-data monitoring.
+I build mathematical frameworks and turn uncertain signals into inspectable, cross-validated systems across clinical biometrics, AI evaluation, wearable sensing, and public-data monitoring.
 
 7 years of clinical biostatistics at a CRO (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Open to research-scientist, research-engineering, AI-evaluation, model-validation, and methods roles. Remote US.
 
