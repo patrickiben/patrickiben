@@ -1,6 +1,6 @@
 ### Patrick Iben, MS · Applied mathematics, research engineering, and clinical biostatistics
 
-> I work to eliminate needless ambiguity, risk, and suffering in decisions that rest on data. In practice that means stating in advance how a claim could fail, saying exactly what was measured and what was not, re-deriving results by a second route, and testing them against stronger baselines. I bring the same habits to safety-review tools for early-phase trials, to early warning built on public data, and to evaluations that report where tools fail.
+> I work to eliminate needless ambiguity, risk, and suffering in decisions that rest on data. In practice that means stating in advance how a claim could fail, saying exactly what was measured and what was not, re-deriving results by a second route, and testing them against stronger baselines. I bring the same habits to safety review in early-phase trials, to early warning built on public data, and to making data handling clear to the people who own the data and bear the consequences.
 
 I build mathematical frameworks and turn uncertain signals into inspectable, cross-validated systems across clinical biometrics, AI evaluation, wearable sensing, and public-data monitoring.
 
