@@ -1,10 +1,8 @@
 ### Patrick Iben, MS · Applied mathematics, research engineering, and clinical biostatistics
 
-> I work to eliminate needless ambiguity, risk, and suffering in decisions that rest on data. In practice that means stating in advance how a claim could fail, saying exactly what was measured and what was not, re-deriving results by a second route, testing them against stronger baselines, and asking what an intervention would actually change when effects spread from one unit to another, not only what moves together. I also look for consilience: agreement across independent lines of evidence, and the shared structure that connects fields that seem unrelated, so a method proven in one setting can be tested honestly in another. I bring the same habits to safety review in early-phase trials, to early warning built on public data, and to making data handling clear to the people who own the data and bear the consequences.
+I work to eliminate needless ambiguity, risk, and suffering in decisions that rest on data. I build mathematical frameworks and turn uncertain signals into inspectable, cross-validated systems across clinical trial design and analysis, causal and network inference, model and AI evaluation, and decision support built on public and sensor data. I look for agreement across independent lines of evidence, and for the shared structure that connects fields that seem unrelated, so a method proven in one setting can be tested honestly in another.
 
-I build mathematical frameworks and turn uncertain signals into inspectable, cross-validated systems across clinical biometrics, AI evaluation, wearable sensing, and public-data monitoring.
-
-7 years of clinical biostatistics in contract research (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Open to research-scientist, research-engineering, AI-evaluation, model-validation, and methods roles. Remote US.
+7 years of clinical biostatistics in contract research (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Remote US.
 
 **Contact:** patrickiben@gmail.com · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
 
