@@ -1,6 +1,6 @@
 # Manuscripts, code and applications
 
-Each row connects one research manuscript to its corresponding code/data and any related demonstration. Statuses are current as of **23 October 2026**. Submitted and under-review drafts contain provisional findings.
+Each row connects one research manuscript to its corresponding code/data and any related demonstration. Statuses are current as of **26 October 2026**. Submitted and under-review drafts contain provisional findings.
 
 | Manuscript | Read the manuscript | Corresponding code and data | Related demonstration or application |
 | --- | --- | --- | --- |
