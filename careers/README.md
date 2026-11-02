@@ -11,4 +11,4 @@ Updated 1 November 2026.
 
 The resume highlights professional experience and selected research systems. The CV includes all six manuscripts, public drafts and teaching companions, software projects, publications, and technical expertise.
 
-[Research and teaching index](../RESEARCH_MAP.md) · [GitHub profile](https://github.com/patrickiben) · [Email Patrick](mailto:patrickiben@gmail.com)
+[Manuscripts, code and applications](../RESEARCH_MAP.md) · [GitHub profile](https://github.com/patrickiben) · [Email Patrick](mailto:patrickiben@gmail.com)
