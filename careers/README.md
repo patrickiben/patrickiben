@@ -2,7 +2,7 @@
 
 Patrick Iben · Research engineering, AI evaluation, and clinical biostatistics
 
-Updated 1 November 2026.
+Updated 2 November 2026.
 
 | Document | PDF | Editable Word version |
 | --- | --- | --- |
