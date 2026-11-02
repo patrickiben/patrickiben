@@ -4,7 +4,7 @@ I work to eliminate needless ambiguity, risk, and suffering in decisions that re
 
 7 years of clinical biostatistics in contract research (early-phase clinical pharmacology, CDISC/ADaM, PK/NCA) and 12 years in research. Remote US.
 
-**Contact:** patrickiben@gmail.com · [LinkedIn](https://www.linkedin.com/in/patrick-iben-34502755) · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
+**Contact:** patrickiben@gmail.com · [LinkedIn](https://www.linkedin.com/in/patrickiben) · ORCID [0009-0005-2443-7973](https://orcid.org/0009-0005-2443-7973)
 
 **[Resume (2-page PDF)](https://github.com/patrickiben/patrickiben/blob/main/careers/Patrick_Iben_Resume.pdf) · [Full CV (4-page PDF)](https://github.com/patrickiben/patrickiben/blob/main/careers/Patrick_Iben_CV.pdf)** · [Word versions](https://github.com/patrickiben/patrickiben/tree/main/careers)
 
