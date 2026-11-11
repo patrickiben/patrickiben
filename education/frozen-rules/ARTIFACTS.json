@@ -1,0 +1,41 @@
+{
+  "format": "companion-artifacts-v1",
+  "date": "2026-11-11",
+  "basis": {
+    "manuscript": {
+      "file": "Manuscript.pdf, as submitted to PLOS ONE on 11 November 2026",
+      "pages": 22,
+      "sha256": "5c984ac151e9751486bc5fcce03a5b8333524a2dcffd10b02b9a4fe1fc613130"
+    },
+    "supporting_information": {
+      "S1_Appendix.pdf": "20fdaa408df958e3c899bf48f06a46f99982fc84e8e0d0195479ce1a3b5df4ac",
+      "S2_Appendix.pdf": "85ce27c0db85e9ed0a26d369a59026d8f4beb61ada12d5df71d7cd97a12a796d",
+      "S3_Appendix.pdf": "33f910552717fc374aa038e5f7a1ddaccfe31b7903d1f39c1f8fc1d6c9ae8464",
+      "S4_Appendix.pdf": "c674c3047d8f7a17a8df8ec50eeea5b6c4634603da4a4338f117a33d678974f8",
+      "S5_Appendix.pdf": "985408604fce342832b8595e7749a2bbdef65bf1063fd9b93ea3e030711e3f22",
+      "S6_Appendix.pdf": "833d013a7f9e280b43686da820424b1a73f5dae1367c710b62ff43d2aa6acc31",
+      "S7_Appendix.pdf": "5ac324e37b70eff35d63b3813a15c3e4672391a4822f896ba131360d225ba93a"
+    }
+  },
+  "editions": {
+    "STUDY_GUIDE": {
+      "markdown_sha256": "db32cb8878ea6cee90e9f4a62216beb599104e8d5955a70b82ebf032493bc0f3",
+      "pdf_sha256": "01e2a5c7ff31c1b9bcd7178eaf920a98564566aad692e2e143fc81d5fb335286",
+      "pages": 4
+    },
+    "COMPANION": {
+      "markdown_sha256": "1c762d110dbe9e3dd5cab0411bfc7a4642c7ba3cad6f2366b689c0306d830262",
+      "pdf_sha256": "96fa11e5d74acb8c1b1cbc897e7387e10a5e7053753b34960bba9382fb19ce4e",
+      "pages": 14
+    }
+  },
+  "checks": {
+    "result": "PASS",
+    "checker_sha256": "08291b7faa15b80cd765e1efdfaae24e273b352ed74408d8b12bffd30de0c595",
+    "record": "VALIDATION.json"
+  },
+  "build": {
+    "renderer": "ReportLab via Pandoc AST; Georgia body, Arial headings",
+    "builder_sha256": "e52c4f95e2eaf02dbb832e9437841020982b5b964f79c40ccaf4494402cb7a83"
+  }
+}
