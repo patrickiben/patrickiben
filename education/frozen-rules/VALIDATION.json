@@ -1,0 +1,114 @@
+{
+  "sources": {
+    "Manuscript.pdf": "5c984ac151e9751486bc5fcce03a5b8333524a2dcffd10b02b9a4fe1fc613130",
+    "S1_Appendix.pdf": "20fdaa408df958e3c899bf48f06a46f99982fc84e8e0d0195479ce1a3b5df4ac",
+    "S2_Appendix.pdf": "85ce27c0db85e9ed0a26d369a59026d8f4beb61ada12d5df71d7cd97a12a796d",
+    "S3_Appendix.pdf": "33f910552717fc374aa038e5f7a1ddaccfe31b7903d1f39c1f8fc1d6c9ae8464",
+    "S4_Appendix.pdf": "c674c3047d8f7a17a8df8ec50eeea5b6c4634603da4a4338f117a33d678974f8",
+    "S5_Appendix.pdf": "985408604fce342832b8595e7749a2bbdef65bf1063fd9b93ea3e030711e3f22",
+    "S6_Appendix.pdf": "833d013a7f9e280b43686da820424b1a73f5dae1367c710b62ff43d2aa6acc31",
+    "S7_Appendix.pdf": "5ac324e37b70eff35d63b3813a15c3e4672391a4822f896ba131360d225ba93a"
+  },
+  "editions": {
+    "STUDY_GUIDE.md": {
+      "markdown_sha256": "db32cb8878ea6cee90e9f4a62216beb599104e8d5955a70b82ebf032493bc0f3",
+      "numeric_tokens": 61,
+      "allowlisted": [],
+      "not_found_in_sources": [],
+      "line_ranges_bad": [],
+      "readability": {
+        "sentences": 93,
+        "mean_words": 12.9,
+        "max_words": 26,
+        "over_30_words": 0,
+        "flesch_kincaid_grade": 7.7,
+        "targets": "grade <= 10, every sentence <= 30 words"
+      },
+      "sentences_over_30_words": []
+    },
+    "COMPANION.md": {
+      "markdown_sha256": "1c762d110dbe9e3dd5cab0411bfc7a4642c7ba3cad6f2366b689c0306d830262",
+      "numeric_tokens": 220,
+      "allowlisted": [
+        "+0.01",
+        "0.00",
+        "0.000435",
+        "0.002",
+        "0.02",
+        "0.04",
+        "−0.01",
+        "−0.07",
+        "−0.08",
+        "−0.09"
+      ],
+      "not_found_in_sources": [],
+      "line_ranges_bad": [],
+      "readability": {
+        "sentences": 401,
+        "mean_words": 12.3,
+        "max_words": 30,
+        "over_30_words": 0,
+        "flesch_kincaid_grade": 7.8,
+        "targets": "grade <= 10, every sentence <= 30 words"
+      },
+      "sentences_over_30_words": []
+    }
+  },
+  "failures": [],
+  "self_test": {
+    "items": 12,
+    "core": 4,
+    "boundary": 4,
+    "transfer": 4,
+    "ok": true
+  },
+  "nonclaims": {
+    "quoted": 5,
+    "not_verbatim": []
+  },
+  "result": "PASS",
+  "readability_summary": {
+    "STUDY_GUIDE.md": {
+      "sentences": 93,
+      "mean_words": 12.9,
+      "max_words": 26,
+      "over_30_words": 0,
+      "flesch_kincaid_grade": 7.7,
+      "targets": "grade <= 10, every sentence <= 30 words"
+    },
+    "COMPANION.md": {
+      "sentences": 401,
+      "mean_words": 12.3,
+      "max_words": 30,
+      "over_30_words": 0,
+      "flesch_kincaid_grade": 7.8,
+      "targets": "grade <= 10, every sentence <= 30 words"
+    }
+  },
+  "mutation_test": {
+    "date": "2026-11-11",
+    "method": "one planted fault per run in a scratch copy; exit 1 means caught",
+    "results": {
+      "changed headline number": "caught",
+      "flipped sign": "caught",
+      "shifted line range": "caught",
+      "emptied exercise": "caught",
+      "deleted nonclaim": "caught",
+      "deleted lesson label": "caught",
+      "changed number in study guide": "caught"
+    },
+    "note": "a first run missed the emptied exercise; the empty-field check was tightened and all seven were then caught"
+  },
+  "human_rows": {
+    "audience_reader_review": "NOT DONE",
+    "unrecorded_claims_review": "NOT DONE",
+    "reader_transfer_test": "NOT DONE"
+  },
+  "allowlist_reasons": {
+    "−0.09, −0.08, −0.07, −0.01, 0.00, +0.01": "W04 illustrative inputs and their centered values, labeled in the text",
+    "0.02": "W01 arithmetic (0.12 − 0.10) and T09 illustrative bound",
+    "0.002": "W02 arithmetic (1 − α + λ)",
+    "0.000435": "W03 arithmetic (0.87% of 0.05)",
+    "0.04": "T09 illustrative 2B"
+  }
+}
