@@ -1,4 +1,4 @@
-### Patrick Iben, MS · Applied mathematics, research engineering, and clinical biostatistics
+### Patrick Iben, MS · Applied mathematics, research engineering, predictive analytics, and clinical biostatistics
 
 I work to eliminate needless ambiguity, risk, and suffering in decisions that rest on data. I build mathematical frameworks and turn uncertain signals into inspectable, cross-validated systems across clinical trial design and analysis, causal and network inference, model and AI evaluation, and decision support built on public and sensor data. I look for agreement across independent lines of evidence, and for the shared structure that connects fields that seem unrelated, so a method proven in one setting can be tested honestly in another.
 
