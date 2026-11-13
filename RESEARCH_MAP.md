@@ -37,7 +37,7 @@ Each research project has a concise study guide and a complete companion. Each i
 
 **Resilience Telemetry translates the directed-contagion work into an interactive monitoring tool.** Its live-data workflow, ridge VAR, historical replay and transmitter-stability displays extend the presentation to a different setting. The manuscript's non-negative VAR and interdiction experiments remain in the research repository; the [research guide](https://patrickiben.github.io/public-data-consoles/consoles/resilience-telemetry/wiki.html#s8b) explains the differences.
 
-**Autonomic Telemetry showcases research engineering in wearable sensing.** Its [source](https://github.com/patrickiben/autonomic-telemetry) and [live interface](https://patrickiben.github.io/autonomic-telemetry/) demonstrate device adapters, a local bridge, signal-quality contracts and tested numerical views. A specific manuscript correspondence is not assigned here.
+**Autonomic Telemetry showcases research engineering in wearable sensing.** Its [source](https://github.com/patrickiben/body-signal-labs/tree/main/autonomic) and [live interface](https://patrickiben.github.io/body-signal-labs/autonomic/Autonomic_Telemetry_Console.html) demonstrate device adapters, a local bridge, signal-quality contracts and tested numerical views. A specific manuscript correspondence is not assigned here.
 
 ## Versions and citations
 
